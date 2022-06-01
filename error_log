@@ -1,0 +1,223 @@
+[23-May-2022 05:16:50 America/Chicago] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home1/web/public_html/LSC/20220523-DemoPHP/index.php on line 24
+[24-May-2022 13:29:18 America/Chicago] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home1/web/public_html/JZR/phpej/ejerciciophp.php on line 38
+[24-May-2022 13:29:25 America/Chicago] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home1/web/public_html/JZR/phpej/ejerciciophp.php on line 38
+[24-May-2022 13:29:34 America/Chicago] PHP Parse error:  syntax error, unexpected '$apellido' (T_VARIABLE), expecting ';' or ',' in /home1/web/public_html/JZR/phpej/ejerciciophp.php on line 38
+[24-May-2022 13:29:36 America/Chicago] PHP Parse error:  syntax error, unexpected '$apellido' (T_VARIABLE), expecting ';' or ',' in /home1/web/public_html/JZR/phpej/ejerciciophp.php on line 38
+[24-May-2022 13:29:37 America/Chicago] PHP Parse error:  syntax error, unexpected '$apellido' (T_VARIABLE), expecting ';' or ',' in /home1/web/public_html/JZR/phpej/ejerciciophp.php on line 38
+[24-May-2022 13:29:38 America/Chicago] PHP Parse error:  syntax error, unexpected '$apellido' (T_VARIABLE), expecting ';' or ',' in /home1/web/public_html/JZR/phpej/ejerciciophp.php on line 38
+[24-May-2022 13:29:39 America/Chicago] PHP Parse error:  syntax error, unexpected '$apellido' (T_VARIABLE), expecting ';' or ',' in /home1/web/public_html/JZR/phpej/ejerciciophp.php on line 38
+[24-May-2022 13:29:40 America/Chicago] PHP Parse error:  syntax error, unexpected '$apellido' (T_VARIABLE), expecting ';' or ',' in /home1/web/public_html/JZR/phpej/ejerciciophp.php on line 38
+[24-May-2022 13:48:50 America/Chicago] PHP Warning:  Use of undefined constant Coche - assumed 'Coche' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpej/ejerciciophp1peaje.php on line 28
+[24-May-2022 13:50:07 America/Chicago] PHP Warning:  Use of undefined constant Motocicleta - assumed 'Motocicleta' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpej/ejerciciophp1peaje.php on line 28
+[24-May-2022 13:50:07 America/Chicago] PHP Warning:  Use of undefined constant Coche - assumed 'Coche' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpej/ejerciciophp1peaje.php on line 32
+[25-May-2022 02:19:57 America/Chicago] PHP Warning:  Use of undefined constant Motocicleta - assumed 'Motocicleta' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpej/ejerciciophp1peaje.php on line 39
+[25-May-2022 02:19:57 America/Chicago] PHP Warning:  Use of undefined constant Coche - assumed 'Coche' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpej/ejerciciophp1peaje.php on line 43
+[25-May-2022 02:20:14 America/Chicago] PHP Warning:  Use of undefined constant Motocicleta - assumed 'Motocicleta' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpej/ejerciciophp1peaje.php on line 39
+[25-May-2022 02:20:14 America/Chicago] PHP Warning:  Use of undefined constant Coche - assumed 'Coche' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpej/ejerciciophp1peaje.php on line 43
+[25-May-2022 02:26:59 America/Chicago] PHP Warning:  Use of undefined constant Motocicleta - assumed 'Motocicleta' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpej/ejerciciophp1peaje.php on line 41
+[25-May-2022 02:26:59 America/Chicago] PHP Warning:  Use of undefined constant Coche - assumed 'Coche' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpej/ejerciciophp1peaje.php on line 45
+[25-May-2022 02:27:01 America/Chicago] PHP Warning:  Use of undefined constant Motocicleta - assumed 'Motocicleta' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpej/ejerciciophp1peaje.php on line 41
+[25-May-2022 02:27:01 America/Chicago] PHP Warning:  Use of undefined constant Coche - assumed 'Coche' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpej/ejerciciophp1peaje.php on line 45
+[25-May-2022 02:27:55 America/Chicago] PHP Warning:  Use of undefined constant Motocicleta - assumed 'Motocicleta' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpej/ejerciciophp1peaje.php on line 42
+[25-May-2022 02:27:55 America/Chicago] PHP Warning:  Use of undefined constant Coche - assumed 'Coche' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpej/ejerciciophp1peaje.php on line 46
+[25-May-2022 02:46:03 America/Chicago] PHP Warning:  Use of undefined constant Motocicleta - assumed 'Motocicleta' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpej/ejerciciophp1peaje.php on line 44
+[25-May-2022 02:46:03 America/Chicago] PHP Warning:  Use of undefined constant Coche - assumed 'Coche' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpej/ejerciciophp1peaje.php on line 48
+[25-May-2022 02:47:04 America/Chicago] PHP Warning:  Use of undefined constant Motocicleta - assumed 'Motocicleta' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpej/ejerciciophp1peaje.php on line 44
+[25-May-2022 02:47:04 America/Chicago] PHP Warning:  Use of undefined constant Coche - assumed 'Coche' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpej/ejerciciophp1peaje.php on line 48
+[25-May-2022 02:47:30 America/Chicago] PHP Warning:  Use of undefined constant Motocicleta - assumed 'Motocicleta' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpej/ejerciciophp1peaje.php on line 44
+[25-May-2022 02:47:30 America/Chicago] PHP Warning:  Use of undefined constant Coche - assumed 'Coche' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpej/ejerciciophp1peaje.php on line 48
+[25-May-2022 02:49:14 America/Chicago] PHP Warning:  Use of undefined constant Motocicleta - assumed 'Motocicleta' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpej/ejerciciophp1peaje.php on line 45
+[25-May-2022 02:49:14 America/Chicago] PHP Warning:  Use of undefined constant Coche - assumed 'Coche' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpej/ejerciciophp1peaje.php on line 49
+[25-May-2022 02:54:39 America/Chicago] PHP Warning:  Use of undefined constant Motocicleta - assumed 'Motocicleta' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpej/ejerciciophp1peaje.php on line 46
+[25-May-2022 02:54:39 America/Chicago] PHP Warning:  Use of undefined constant Coche - assumed 'Coche' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpej/ejerciciophp1peaje.php on line 50
+[25-May-2022 03:14:34 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/web/public_html/JZR/phpej/tablasdemutiplicar.php on line 68
+[25-May-2022 03:14:38 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/web/public_html/JZR/phpej/tablasdemutiplicar.php on line 68
+[25-May-2022 03:17:47 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/web/public_html/JZR/phpej/tablasdemutiplicar.php on line 70
+[25-May-2022 03:17:59 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/web/public_html/JZR/phpej/tablasdemutiplicar.php on line 70
+[25-May-2022 03:21:54 America/Chicago] PHP Parse error:  syntax error, unexpected '"nuevo numero \n "' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home1/web/public_html/JZR/phpej/tablasdemutiplicar.php on line 43
+[25-May-2022 05:15:02 America/Chicago] PHP Warning:  Use of undefined constant Motocicleta - assumed 'Motocicleta' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio4.php on line 46
+[25-May-2022 05:15:02 America/Chicago] PHP Warning:  Use of undefined constant Coche - assumed 'Coche' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio4.php on line 50
+[25-May-2022 05:27:18 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home1/web/public_html/JZR/phpEj/ejercicio4.php on line 54
+[25-May-2022 05:27:22 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home1/web/public_html/JZR/phpEj/ejercicio4.php on line 54
+[25-May-2022 05:27:46 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home1/web/public_html/JZR/phpEj/ejercicio4.php on line 54
+[25-May-2022 06:26:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$promedio' (T_VARIABLE) in /home1/web/public_html/JZR/phpEj/ejercicio5.php on line 34
+[25-May-2022 06:26:48 America/Chicago] PHP Parse error:  syntax error, unexpected '$promedio' (T_VARIABLE) in /home1/web/public_html/JZR/phpEj/ejercicio5.php on line 34
+[25-May-2022 06:29:59 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home1/web/public_html/JZR/phpEj/ejercicio5.php on line 45
+[25-May-2022 06:30:13 America/Chicago] PHP Parse error:  syntax error, unexpected '"<br/>"' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home1/web/public_html/JZR/phpEj/ejercicio5.php on line 45
+[25-May-2022 06:30:38 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting ';' or ',' in /home1/web/public_html/JZR/phpEj/ejercicio5.php on line 46
+[25-May-2022 06:33:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'https' (T_STRING), expecting ';' or ',' in /home1/web/public_html/JZR/phpEj/ejercicio5.php on line 83
+[25-May-2022 06:34:26 America/Chicago] PHP Parse error:  syntax error, unexpected '$contador' (T_VARIABLE), expecting ';' or ',' in /home1/web/public_html/JZR/phpEj/ejercicio5.php on line 59
+[26-May-2022 05:09:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in /home1/web/public_html/JZR/phpEj/ejercicio6par.php:40
+Stack trace:
+#0 {main}
+  thrown in /home1/web/public_html/JZR/phpEj/ejercicio6par.php on line 40
+[26-May-2022 05:09:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in /home1/web/public_html/JZR/phpEj/ejercicio6par.php:40
+Stack trace:
+#0 {main}
+  thrown in /home1/web/public_html/JZR/phpEj/ejercicio6par.php on line 40
+[26-May-2022 05:09:42 America/Chicago] PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in /home1/web/public_html/JZR/phpEj/ejercicio6par.php:40
+Stack trace:
+#0 {main}
+  thrown in /home1/web/public_html/JZR/phpEj/ejercicio6par.php on line 40
+[26-May-2022 05:09:43 America/Chicago] PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in /home1/web/public_html/JZR/phpEj/ejercicio6par.php:40
+Stack trace:
+#0 {main}
+  thrown in /home1/web/public_html/JZR/phpEj/ejercicio6par.php on line 40
+[26-May-2022 05:10:57 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home1/web/public_html/JZR/phpEj/ejercicio6par.php on line 40
+[26-May-2022 05:13:58 America/Chicago] PHP Parse error:  syntax error, unexpected ']', expecting ')' in /home1/web/public_html/JZR/phpEj/ejercicio6par.php on line 40
+[26-May-2022 05:19:58 America/Chicago] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home1/web/public_html/JZR/phpEj/ejercicio6par.php:40
+Stack trace:
+#0 {main}
+  thrown in /home1/web/public_html/JZR/phpEj/ejercicio6par.php on line 40
+[26-May-2022 05:29:20 America/Chicago] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home1/web/public_html/JZR/phpEj/ejercicio6par.php:54
+Stack trace:
+#0 {main}
+  thrown in /home1/web/public_html/JZR/phpEj/ejercicio6par.php on line 54
+[26-May-2022 05:31:31 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home1/web/public_html/JZR/phpEj/ejercicio6par.php on line 52
+[27-May-2022 01:16:29 America/Chicago] PHP Warning:  Use of undefined constant Motocicleta - assumed 'Motocicleta' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejerciciophp1peaje.php on line 46
+[27-May-2022 01:16:29 America/Chicago] PHP Warning:  Use of undefined constant Coche - assumed 'Coche' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejerciciophp1peaje.php on line 50
+[27-May-2022 01:24:42 America/Chicago] PHP Warning:  Use of undefined constant Motocicleta - assumed 'Motocicleta' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejerciciophp1peaje.php on line 46
+[27-May-2022 01:24:42 America/Chicago] PHP Warning:  Use of undefined constant Coche - assumed 'Coche' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejerciciophp1peaje.php on line 50
+[27-May-2022 01:33:34 America/Chicago] PHP Parse error:  syntax error, unexpected '$coche1' (T_VARIABLE), expecting ';' or ',' in /home1/web/public_html/JZR/phpEj/ejercicio7bis.php on line 36
+[27-May-2022 01:35:16 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/web/public_html/JZR/phpEj/ejercicio7bis.php on line 34
+[27-May-2022 01:36:11 America/Chicago] PHP Parse error:  syntax error, unexpected '$pic' (T_VARIABLE), expecting ';' or ',' in /home1/web/public_html/JZR/phpEj/ejercicio7bis.php on line 34
+[27-May-2022 01:36:37 America/Chicago] PHP Parse error:  syntax error, unexpected '$pic' (T_VARIABLE), expecting ';' or ',' in /home1/web/public_html/JZR/phpEj/ejercicio7bis.php on line 34
+[27-May-2022 01:36:54 America/Chicago] PHP Parse error:  syntax error, unexpected '$pic' (T_VARIABLE), expecting ';' or ',' in /home1/web/public_html/JZR/phpEj/ejercicio7bis.php on line 34
+[27-May-2022 01:41:02 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/web/public_html/JZR/phpEj/ejercicio7bis.php on line 37
+[27-May-2022 03:26:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'col' (T_STRING), expecting ';' or ',' in /home1/web/public_html/JZR/phpEj/ejercicio7bis.php on line 37
+[27-May-2022 03:26:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'col' (T_STRING), expecting ';' or ',' in /home1/web/public_html/JZR/phpEj/ejercicio7bis.php on line 37
+[28-May-2022 09:05:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'far' (T_STRING) in /home1/web/public_html/JZR/phpEj/ejercicio8Google.php on line 67
+[28-May-2022 09:12:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'fa' (T_STRING) in /home1/web/public_html/JZR/phpEj/ejercicio8Google.php on line 64
+[28-May-2022 09:12:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'fa' (T_STRING) in /home1/web/public_html/JZR/phpEj/ejercicio8Google.php on line 64
+[28-May-2022 09:26:27 America/Chicago] PHP Fatal error:  Uncaught Error: Function name must be a string in /home1/web/public_html/JZR/phpEj/ejercicio5Pares.php:41
+Stack trace:
+#0 {main}
+  thrown in /home1/web/public_html/JZR/phpEj/ejercicio5Pares.php on line 41
+[28-May-2022 09:29:24 America/Chicago] PHP Fatal error:  Uncaught Error: Function name must be a string in /home1/web/public_html/JZR/phpEj/ejercicio5Pares.php:41
+Stack trace:
+#0 {main}
+  thrown in /home1/web/public_html/JZR/phpEj/ejercicio5Pares.php on line 41
+[28-May-2022 09:38:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 45
+[28-May-2022 09:38:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 45
+[28-May-2022 09:44:37 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 44
+[28-May-2022 09:44:37 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 44
+[28-May-2022 09:44:37 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 44
+[28-May-2022 09:44:37 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 44
+[28-May-2022 09:44:37 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 44
+[28-May-2022 09:44:37 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 44
+[28-May-2022 09:44:37 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 44
+[28-May-2022 09:44:37 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 44
+[28-May-2022 09:45:57 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:45:57 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:45:57 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:45:57 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:45:57 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:45:57 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:45:57 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:45:57 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:46:07 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:46:07 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:46:07 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:46:07 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:46:07 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:46:07 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:46:07 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:46:07 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:46:41 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:46:41 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:46:41 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:46:41 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:46:41 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:46:41 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:46:41 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:46:41 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:47:16 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:47:16 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:47:16 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:47:16 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:47:16 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:47:16 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:47:16 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:47:16 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:48:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 44
+[28-May-2022 09:49:08 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:49:08 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:49:08 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:49:08 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:49:08 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:49:08 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:49:08 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:49:08 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:49:45 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:49:45 America/Chicago] PHP Warning:  Use of undefined constant nombre - assumed 'nombre' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 46
+[28-May-2022 09:49:45 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:49:45 America/Chicago] PHP Warning:  Use of undefined constant nombre - assumed 'nombre' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 46
+[28-May-2022 09:49:45 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:49:45 America/Chicago] PHP Warning:  Use of undefined constant nombre - assumed 'nombre' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 46
+[28-May-2022 09:49:45 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:49:45 America/Chicago] PHP Warning:  Use of undefined constant nombre - assumed 'nombre' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 46
+[28-May-2022 09:49:45 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:49:45 America/Chicago] PHP Warning:  Use of undefined constant nombre - assumed 'nombre' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 46
+[28-May-2022 09:49:45 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:49:45 America/Chicago] PHP Warning:  Use of undefined constant nombre - assumed 'nombre' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 46
+[28-May-2022 09:49:45 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:49:45 America/Chicago] PHP Warning:  Use of undefined constant nombre - assumed 'nombre' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 46
+[28-May-2022 09:49:45 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:49:45 America/Chicago] PHP Warning:  Use of undefined constant nombre - assumed 'nombre' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 46
+[28-May-2022 09:49:57 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:49:57 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:49:57 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:49:57 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:49:57 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:49:57 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:49:57 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:49:57 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:51:25 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:51:25 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:51:25 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:51:25 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:51:25 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:51:25 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:51:25 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:51:25 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:51:57 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:51:57 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:51:57 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:51:57 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:51:57 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:51:57 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:51:57 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:51:57 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:52:10 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:52:10 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:52:10 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:52:10 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:52:10 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:52:10 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:52:10 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:52:10 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:52:46 America/Chicago] PHP Parse error:  syntax error, unexpected '"hay iguales"' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 49
+[28-May-2022 09:52:55 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:52:55 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:52:55 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:52:55 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:52:55 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:52:55 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:52:55 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:52:55 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:53:37 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:53:37 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:53:37 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:53:37 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:53:37 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:53:37 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:53:37 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:53:37 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:53:59 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:53:59 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:53:59 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:53:59 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:53:59 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:53:59 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:53:59 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
+[28-May-2022 09:53:59 America/Chicago] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home1/web/public_html/JZR/phpEj/ejercicio9Edad.php on line 41
